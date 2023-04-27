@@ -1,2 +1,3 @@
 python -m venv venv
 django-admin startproject core .
+python manage.py runserver
